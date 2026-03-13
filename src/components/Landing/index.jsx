@@ -6,7 +6,6 @@ import styles from './style.module.css';
 export default function Landing() {
     return (
         <div className={styles.container}>
-
             <div className={styles.canvasContainer}>
                 <Canvas
                     shadows
