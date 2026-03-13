@@ -31,7 +31,7 @@ export default function Scene() {
                         ref={modelRef}
                         object={scene}
                         position={[0, 0, 0]}
-                        scale={0.2}
+                        scale={0.3}
                     />
                 </Float>
             </PresentationControls>
